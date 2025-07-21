@@ -1,5 +1,3 @@
-<seotitle>Cisco DevNet video transcripts</seotitle>
-
 # Cisco DevNet Video Transcripts
 
 ## [MCP for DevOps - Use Cases](https://www.youtube.com/watch?v=NXFzZsvhJR8)
