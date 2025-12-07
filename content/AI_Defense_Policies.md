@@ -1,4 +1,4 @@
-## Video
+## AI Defense Policies: Protecting Your Agents from Prompt Injection & Privacy Risks
 
 [![YouTube video](https://img.youtube.com/vi/PTgb01WsOAI/0.jpg)](https://www.youtube.com/watch?v=PTgb01WsOAI)
 
@@ -49,3 +49,4 @@ AI defense provides two primary methods for integrating applications:
 In this demo, we route traffic through the AI gateway, and all requests go through it. Let's see what it looks like. We have here an integration connection, a gateway URL that we set as an environment variable, and a code snippet to test your integration.
 
 </details>
+
